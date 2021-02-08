@@ -11,7 +11,7 @@
             <table border="0" width="30%" cellpadding="3">
                 <thead>
                     <tr>
-                        <th colspan="2">Login Page Version 2</th>
+                        <th colspan="2">Login Page Version v.1.2</th>
                     </tr>
                 </thead>
                 <tbody>
