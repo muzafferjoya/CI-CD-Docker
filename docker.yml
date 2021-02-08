@@ -1,4 +1,4 @@
 - hosts: docker
   tasks:
     - name: create docker container
-      shell: docker run -itd -p 8080:8080 muzaffarjoya/docker-tomcat:v1
+      shell: docker run -itd -p 8080:8080 muzaffarjoya/docker-tomcat:v2
